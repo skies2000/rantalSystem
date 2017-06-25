@@ -1,0 +1,31 @@
+﻿  screenOut.c
+  rentInfoAccess.c
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\rentinfoaccess.c(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\rentinfoaccess.c(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  fileManager.c
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\filemanager.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\filemanager.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  blManager.c
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\blmanager.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\blmanager.c(248): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  dvdInfoAccess.c
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\dvdinfoaccess.c(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\dvdinfoaccess.c(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  cusInfoAccess.c
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\cusinfoaccess.c(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\cusinfoaccess.c(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2017\projects\rantalsystem\consoleapplication2\cusinfoaccess.c(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  ConsoleApplication2.vcxproj -> C:\Users\Home\Documents\Visual Studio 2017\Projects\rantalSystem\x64\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Home\Documents\Visual Studio 2017\Projects\rantalSystem\x64\Debug\ConsoleApplication2.pdb (Partial PDB)
